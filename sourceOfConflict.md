@@ -7,4 +7,6 @@
 * new bullet
 * points
 
-<p> There <span style="color:blue">this is new bug</span> in this file</p>
+
+<p> Theres not a bug in this file</p>
+<h1>Hello Ophelia!</h1>
